@@ -1,0 +1,253 @@
+{
+  "AppRedirect": {
+    "status"     : false,
+    "redirectURL": "https://play.google.com/store/apps/details?id=com.spotify.music"
+  },
+  
+  
+  "AdController": {
+      
+      "README": [
+        "To run ads for each network, enter one of the following: 'admob' , 'facebook' ",
+        "⚠️Warning: Facebook does not support OpenAd."
+      ],
+      
+      "BannerNetwork"      : "admob",
+      "InterstitialNetwork": "admob",
+      "NativeNetwork"      : "admob",
+      
+      "OpenAdNetwork"      : "admob",
+      
+      "AdInterval"         : 1,
+      
+      "NativeAdRow"        : 0,
+
+      "AdPlacement": {
+        
+        "AdMobBanner"         : "",
+        "AdMobInterstitial"   : "",
+        "AdMobNative"         : "",
+        "AdMobOpenAd"         : "",
+        
+        "FacebookBanner"      : "",
+        "FacebookInterstitial": "",
+        "FacebookNative"      : ""
+
+      }
+    },
+  
+  "PopAdSetting": {
+    "showPop"  : false,
+    "showClose": false,
+    "adList": [
+      {
+        "preview": "https://lh3.googleusercontent.com/Z-5iIKQ6vfJfauCq1_0yV6ol-qEK6KyRWmRSMYoKYqGCqfMFJJIsSgVyoJiukqnQX4yJRxoTEHxwZ4mkbfx6k-rVQsoNMx3kdCk",
+        "title": "Good new ! we added new app check it !",
+        "button_title": "Install now",
+        "button_url": "https://github.com/saidmotya/"
+      }
+    ]
+  },
+  
+  "AppsPromote": [
+    {
+      "name": "Songs NAZA offline",
+      "packageName": "com.naza.candidat.musickantaris",
+      "icon": "https://play-lh.googleusercontent.com/_EJYvtB8vOZyWEOwhsQkyDuX6LwhBrwjizDynlB0qsR-p5kkN52hTmA4qsxZ1429rTU=w480-h960-rw",
+      "download": "+50K"
+    },
+    {
+      "name": "Songs Koba LaD offline",
+      "packageName": "com.koba.ladtictac.musickantaris",
+      "icon": "https://play-lh.googleusercontent.com/9fnk3FAH3DAsHKEH5k2_mk-cPE2Vw3Yuzux6LXA6i0exLcN9CXGcEXGt2bLs425dDQ=w480-h960-rw",
+      "download": "+1 Million"
+    },
+    {
+      "name": "Songs Lady Gaga offline",
+      "packageName": "com.lady.gagaabractabera.musickantaris",
+      "icon": "https://play-lh.googleusercontent.com/D1flcn58ODM_SAos5z07QJXFauJMO734_U88nue9_w81ta9skNL5BKTxt9jFVHRMD4s=w480-h960-rw",
+      "download": "+100K"
+    },
+    {
+      "name": "Songs Fally Ipupa offline",
+      "packageName": "com.fally.amour.musickantaris",
+      "icon": "https://play-lh.googleusercontent.com/2X5A5th1ZEgF-yuyH1Iu8og0E9FKAHNYWOo_zbtRD2T6PsM6S3P4YVd6tEJ12xTATWo=w480-h960-rw",
+      "download": "+1 Million"
+    },
+    {
+      "name": "Songs XXXTentacion",
+      "packageName": "com.xxxtent.acion.musickantaris",
+      "icon": "https://play-lh.googleusercontent.com/_fbzRDYZLpJoe1AN19qU7QffdDVErW00nLPPtLPaEdpN8G3Tz4hm4UEuAOqiV_cJbA=w480-h960-rw",
+      "download": "+500 Million"
+    },
+    {
+      "name": "Songs Bob marley offline",
+      "packageName": "com.marley.Caution.musickantaris",
+      "icon": "https://play-lh.googleusercontent.com/ODqscYwqcIFk_4Tq5FRo6RLLJ1jjIDAcOCL9MZx1n1Wl1Q7txIanvhv2_te8vDawsQ=w480-h960-rw",
+      "download": "+1 Million"
+    },
+    {
+      "name": "Songs Maitre Gims offline",
+      "packageName": "com.maitre.sicario.musickantaris",
+      "icon": "https://play-lh.googleusercontent.com/bFN3Vb4m70gMlwKy3F70mxAxJ0ZdKzxjOlv5UXKvTtrbcKdG38T33WtafZ2lTvXDykjF=w480-h960-rw",
+      "download": "+100K Million"
+    },
+    {
+      "name": "Songs Celine Dion OFFLINE",
+      "packageName": "com.mia.boyka.musickantaris",
+      "icon": "https://play-lh.googleusercontent.com/9c4XLq7SLyCOchKQXYDXNE3TCS98R6vY-gyWmBqlhxHnkxlXvt0PO_bZeYpfZDFPq9w=w480-h960-rw",
+      "download": "+100K Million"
+    },
+    {
+      "name": "Songs NISKA offline",
+      "packageName": "com.niska.authentique.musickantaris",
+      "icon": "https://play-lh.googleusercontent.com/H1HlAAhqEpYP1tnjxz9i7y9bfJZTYlyGDdayl3c9KUrgCJ4zcYFwgetPPH91cC2i6Q=w480-h960-rw",
+      "download": "+100K Million"
+    },
+    {
+      "name": "Songs Indila offline",
+      "packageName": "com.indila.dernieredanse.musickantaris",
+      "icon": "https://play-lh.googleusercontent.com/ZJ2aQFMnEkSofCcDQN62V_7yB6frdUTOO-GAjAoRp9NVDjVheI9A1mSGA0ti1Y03Joo=w480-h960-rw",
+      "download": "+100K Million"
+    },
+    {
+      "name": "Songs Michael Jackson offline",
+      "packageName": "com.maichael.jackson.musickantaris",
+      "icon": "https://play-lh.googleusercontent.com/1SPS5v6DUvIfnORD8GX-71mYobWZvCxYvQ46_uo6x6wArwPCNvX2aJmW9CC0esNA3QU=w480-h960-rw",
+      "download": "+100K Million"
+    },
+    {
+      "name": "Songs Rihanna offline",
+      "packageName": "com.Rihanna.Birthday.musickantaris",
+      "icon": "https://play-lh.googleusercontent.com/Ox5oc3jIWUthJKZMIVVU-7QbZt2ck86xVmEn9bTDcFFBdiPYbXkDUICuYsWH2dYxpiKe=w480-h960-rw",
+      "download": "+100K Million"
+    },
+    {
+      "name": "Songs Shakira offline",
+      "packageName": "com.shakira.Amarillo.musickantaris",
+      "icon": "https://play-lh.googleusercontent.com/gpFV_Hxbhn9YbcD8aQ_2l0rv28hhkBpD_Ug8K01kg-3_Np8n26z3ekzepjPKzrnfpa8=w480-h960-rw",
+      "download": "+100K Million"
+    },
+    {
+      "name": "Songs Katy Perry offline",
+      "packageName": "com.katyperry.biggerthanme.musickantaris",
+      "icon": "https://play-lh.googleusercontent.com/ETJo5lvxdaaq-pvoRSB_cDxaNonBvWHSpICKWU_n-evgCheJWe3bJIpFxuEBmBBdtzrJ=w480-h960-rw",
+      "download": "+100K Million"
+    },
+    {
+      "name": "Songs Ariana Grande offline",
+      "packageName": "com.araianagrande.supernatural.musickantaris",
+      "icon": "https://play-lh.googleusercontent.com/NJp_U4FS0GEOJQhxkjzI2hIwsgdI8DDhCqEXJkk9Ogd2bc3FbBa4sxbR7_7btElpfw=w480-h960-rw",
+      "download": "+100K Million"
+    },
+    {
+      "name": "Songs Faouzia offline",
+      "packageName": "com.faouzia.howitallworksout.musickantaris",
+      "icon": "https://play-lh.googleusercontent.com/5ZDMYkjGzorvtegbPh7sZ6mYcQjhMgm3UGW4o9KIXK2wNXARfE1rBYEeS4tTBRnS6Vg=w480-h960-rw",
+      "download": "+100K Million"
+    },
+    {
+      "name": "Songs Ronisia offline",
+      "packageName": "com.ronisia.commemoi.musickantaris",
+      "icon": "https://play-lh.googleusercontent.com/aqRNXCYGmZWhVhQ62URqz-iKkwv7RNmD6201cajv6iUUD60BFtLO5gLYJ_EixMLoNA=w480-h960-rw",
+      "download": "+100K Million"
+    },
+    {
+      "name": "Songs marwa loud offline",
+      "packageName": "com.marwa.Bendo.musickantaris",
+      "icon": "https://play-lh.googleusercontent.com/hzpZnPQ2EPFiRMNoI3RjCRlcATuw6u41eHpZFAnR4Zxt2HJIZTI8vdrh_FmBvzs1OQ=w480-h960-rw",
+      "download": "+100K Million"
+    },
+    {
+      "name": "Songs AMEL BENT offline",
+      "packageName": "com.amelbent.demain.musickantaris",
+      "icon": "https://play-lh.googleusercontent.com/7hhKJaUG3aafBqcerNh3hRsVMNs0j9nRhdcZMRol9SZxMhOe5kvAKW2zvdygbJrl4g=w480-h960-rw",
+      "download": "+100K Million"
+    },
+    {
+      "name": "Songs Karol G offline",
+      "packageName": "com.karolg.coleccionandoheridas.musickantaris",
+      "icon": "https://play-lh.googleusercontent.com/6qv2OzHS_1Fu8Ll0rV7winjZJvn0LNvPuMJV4i10eZJlxaFkn9VWkgiPo2aEY9BQ-g=w480-h960-rw",
+      "download": "+100K Million"
+    },
+    {
+      "name": "Songs Britney Spears offline",
+      "packageName": "com.britneyspears.beautiful.musickantaris",
+      "icon": "https://play-lh.googleusercontent.com/qPTNq0eIUMFvEskdcH4Da_6MDStiyR4fsjdGwoDsGNHo-NrDapeq3ukoU9YP8iAngQg=w480-h960-rw",
+      "download": "+100K Million"
+    },
+    {
+      "name": "Songs Beyoncé offline",
+      "packageName": "com.beyonce.beforeiletgo.musickantaris",
+      "icon": "https://play-lh.googleusercontent.com/_0jLzKflwFKFYs4jn2CESudKK7kCZ0RI2kCXSAeKK1UHrxbGZ_BWFec8KWYdEnRCTYo=w480-h960-rw",
+      "download": "+100K Million"
+    },
+    {
+      "name": "Songs Soprano offline",
+      "packageName": "com.Vengame.soprano.musickantaris",
+      "icon": "https://play-lh.googleusercontent.com/DF4rETQhR1CA93tiUALqLk2SAr_Ik_WWGCjQqXejPbawWBSxsPoUjLqJWlwUumcdQSc=w480-h960-rw",
+      "download": "+100K Million"
+    },
+    {
+      "name": "Songs Eva Queen offline",
+      "packageName": "com.eva.queen.musickantaris",
+      "icon": "https://play-lh.googleusercontent.com/-2pROlYIZP5ChFrR9SlYT-a4ZPdQz_Pr5n_PCzOoOOb-p8S4qvfm3GoDE1zOgibR2_Q=w480-h960-rw",
+      "download": "+100K Million"
+    },
+    {
+      "name": "Songs Dadju offline",
+      "packageName": "com.dadju.SAIGNE.musickantaris",
+      "icon": "https://play-lh.googleusercontent.com/inr1wjrt8LS_t8_UMv1d8Yi3elLwL1AIJlnVX4y7_PX6_9TZ_cyh9EM9xyFTDVyz8Do=w480-h960-rw",
+      "download": "+100K Million"
+    },
+    {
+      "name": "Songs Aya Nakamura offline",
+      "packageName": "com.AyaNakamura.Bobo.musickantaris",
+      "icon": "https://play-lh.googleusercontent.com/HIYq_6QP-ojwZ3uoaZq2AfDwZrKMsGEuBCYzxRkvZb2f72C_iBgDdnay9zdsFSj4FA=w480-h960-rw",
+      "download": "+100K Million"
+    },
+    {
+      "name": "Songs Imen Es offline",
+      "packageName": "com.imen.espeke.musickantaris",
+      "icon": "https://play-lh.googleusercontent.com/KcBMXis7C7oTb4obWKdVQmZhPdMe28MKFbeiBPaReShvSnUs-_XLl9yWACcbZLV9B5P2=w480-h960-rw",
+      "download": "+100K Million"
+    },
+    {
+      "name": "Songs Wejdene offline",
+      "packageName": "com.Wejdene.Wejdenecoco.musickantaris",
+      "icon": "https://play-lh.googleusercontent.com/qaMcNcmwazl3UpGtd2EfPhzr0T_3XJ243NEBh9znBiVt6hNCZVYQCJWD3FeAYpFhs1Zs=w480-h960-rw",
+      "download": "+100K Million"
+    },
+    {
+      "name": "Songs Tayc offline",
+      "packageName": "com.tayc.carryme.musickantaris",
+      "icon": "https://play-lh.googleusercontent.com/rLyP-HHdd5hptD5gGW4VtbTiC9cJfQOU0Fljm7EwtTBLFXJzDDE9UzUDimZunJOHJFU=w480-h960-rw",
+      "download": "+100K Million"
+    },
+    {
+      "name": "Songs Ninho offline",
+      "packageName": "com.ninho.carolina.musickantaris",
+      "icon": "https://play-lh.googleusercontent.com/unOGVHcG9C_FIjwi557Aa_BtWDfzhkLw36JrldiXVcX8gnRI1NdDY0LkWTJX3MkPIcJL=w480-h960-rw",
+      "download": "+100K Million"
+    },
+    {
+      "name": "Songs Jul offline",
+      "packageName": "com.jul.tokyo.musickantaris",
+      "icon": "https://play-lh.googleusercontent.com/R3fLUm75ZDlSVMlQfLpdRFEgYuaPW_HPVnGI6-9PzYXHZbAw-BI8ws2JsFIfnmw2di4=w480-h960-rw",
+      "download": "+100K Million"
+    },
+    {
+      "name": "Songs Mark Forster offline",
+      "packageName": "com.markforster.comeback.musickantaris",
+      "icon": "https://play-lh.googleusercontent.com/engXpB7-UMpqMeM5avcmFOeLaAdhmR5XPZmutEpi2JXujE_u3HYZeD0nzAGSCB4AQg=w480-h960-rw",
+      "download": "+100K Million"
+    },
+    {
+      "name": "Songs Kendji Girac offline",
+      "packageName": "com.kendjigirac.andale.musickantaris",
+      "icon": "https://play-lh.googleusercontent.com/wNm94W72DVs4hRQVHiGjiR2mvRsFG-K4H31-VcjxCxfLTgdG7WS8HweYpC__xrxenCEe=w480-h960-rw",
+      "download": "+100K Million"
+    }
+  ]
+  
+}
